@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://cdn.discordapp.com/avatars/1305527648721698816/cb33fee247e88e507c8adeab90cdfd9a.png?size=4096" alt="Easy-Code Romania Logo" width="200" />
+</p>
+
+
 # Easy-Code Romania
 
 **Welcome to Easy-Code Romania!**  

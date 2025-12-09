@@ -4,48 +4,32 @@
 
 # Easy-Code Romania 🚀
 
-**A thriving community for enthusiasts of game development, web programming, technology, and graphic design.**
+The most active Romanian community for programming, game development, web development, graphic design & technology.
 
-Join us to find valuable resources, engaging discussions, and expert support across a wide range of technologies.
+Whether you're a complete beginner or an experienced developer, you'll find real help, quality resources and great people here.
 
----
-
-## About Us 🔍
-
-Easy-Code Romania is a dedicated community focused on programming, gaming, technology, and graphics. Founded on **October 22, 2021**, by **@pericsq** and **@SeBBa**, with later contributions from **@FanE** and **@lordcara**, we offer an ideal space to learn and collaborate with passionate individuals.
-
-We are supported by [**Five-Host**](https://five-host.com/aff.php?aff=91), who have been providing us with hosting services for over a year. Use the promo code **easycode20** for a 20% discount on your orders (valid for 6 months).
+Founded in October 2021 by **@pericsq** and **@SeBBa**.
 
 ---
-
-## What We Offer 🛠️
-
-* **Discussion Forum:** Share ideas and ask questions.
-* **Resources & Tutorials:** Access learning materials to enhance your skills.
-* **Expert Support:** Get help from experienced developers.
-* **Active Community:** Stay updated with the latest trends.
-
----
-
-## How to Join 🏆
-
-1.  **Create an Account** on our platform.
-2.  **Engage & Contribute** with your knowledge.
-3.  **Stay Active** by participating in events and discussions.
+### What we offer
+- Daily discussions & super-fast support  
+- Thousands of free tutorials and resources  
+- Dedicated channels for Unity, Unreal Engine, Godot, JavaScript, PHP, React, Photoshop, Blender, AI and many more  
+- Monthly contests & challenges with prizes  
+- Friendly and chill atmosphere – zero toxicity
 
 ---
-
-## Useful Links 🔗
-
-* **Website:** [easy-code.ro](http://easy-code.ro)
-* **Discord:** [Join our Discord](https://discord.gg/easy-code)
-* **Instagram:** [@easycode.ro](https://instagram.com/easycode.ro)
-* **TikTok:** [@wwweasycodero](https://tiktok.com/@wwweasycodero)
+### Exclusive discounts from Five-Host (official partner)
+- `easycode20` → **20% off** for 6 months  
+- `ec35` → **35% lifetime discount**  
+→ https://five-host.com/aff.php?aff=91
 
 ---
+### Join us!
+Website → https://easy-code.ro  
+Discord → https://easy-code.ro/discord
 
-## Contact Us 📩
+Any questions or suggestions? → office@easy-code.ro
 
-For inquiries or suggestions, contact us on our forum or via email at **office@easy-code.ro**.
-
-**We're happy to have you in the Easy-Code Romania community!** ✨
+Welcome home! ❤️  
+Let's code and grow together! 🔥
